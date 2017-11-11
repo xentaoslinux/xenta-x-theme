@@ -3,13 +3,12 @@ Section: gnome
 Priority: optional
 Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
 Build-Depends: debhelper (>=9)
-Standards-Version: 3.9.6
-Homepage: http://www.xentaos.org/
-#Vcs-Git: git://anonscm.debian.org/collab-maint/xenta-x-theme.git
-#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/xenta-x-theme.git
+Standards-Version: 3.9.7
+Homepage: https://github.com/xentaos/xenta-x-theme
+Vcs-Browser: https://github.com/xentaos/xenta-x-theme.git
 
 Package: xenta-x-theme
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Xenta X Themes
- Default Modern Themes For Xenta OS Cinnamon Edition
+Description: Paket Bawaan Theme Xenta X untuk Xenta OS.
+ Paket secara bawaan berupa GTK, Windows Sistem dan xfwm THeme.
