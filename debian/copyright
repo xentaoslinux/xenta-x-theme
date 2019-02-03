@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: xenta-x-theme
-Upstream-Contact: Dindin Hernawan <root@dev.xentaos.org>
+Upstream-Contact: Dindin Hernawan <dindin_hernawan@yahoo.com>
 Source: https://github.com/xentaos/xenta-x-theme
 
 Files: usr/share/themes/Xenta-X/xfwm4/*
