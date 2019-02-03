@@ -11,7 +11,7 @@ style "default" {
   GtkToolbar::internal-padding = 4
   GtkToolButton::icon-spacing = 4
 
-  GtkWidget::tooltip-radius = 0
+  GtkWidget::tooltip-radius = 2
   GtkWidget::tooltip-alpha = 235
   GtkWidget::new-tooltip-style = 1 #for compatibility
 
@@ -714,9 +714,10 @@ style "menu_item"
   bg[SELECTED] = @selected_fg_color
 
 	fg[NORMAL] = @fg_color
-	fg[SELECTED] = @fg_color
+	fg[SELECTED] = @selected_fg_color
+  fg[PRELIGHT] = @selected_fg_color
 
-  text[PRELIGHT] = @fg_color
+  text[PRELIGHT] = @selected_fg_color
 
   engine "pixmap" {
 

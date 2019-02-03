@@ -44,11 +44,11 @@
 </frame_geometry>
 
 <draw_ops name="title-text-focused">
-<title color="#6c6c6c" x="(0 `max` (width-title_width-mini_icon_width-IconTitleSpacing)) / 2 + mini_icon_width + IconTitleSpacing" y="(height - title_height) / 2"/>
+<title color="#000000" x="(0 `max` (width-title_width-mini_icon_width-IconTitleSpacing)) / 2 + mini_icon_width + IconTitleSpacing" y="(height - title_height) / 2"/>
 </draw_ops>
 
 <draw_ops name="title-text-unfocused">
-<title color="#4c4c4c" x="(0 `max` (width-title_width-mini_icon_width-IconTitleSpacing)) / 2 + mini_icon_width + IconTitleSpacing" y="(height - title_height) / 2"/>
+<title color="#cfcfcf" x="(0 `max` (width-title_width-mini_icon_width-IconTitleSpacing)) / 2 + mini_icon_width + IconTitleSpacing" y="(height - title_height) / 2"/>
 </draw_ops>
 
 <draw_ops name="blank">
