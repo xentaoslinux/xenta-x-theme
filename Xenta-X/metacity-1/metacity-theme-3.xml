@@ -55,75 +55,75 @@
 </draw_ops>
 
 <draw_ops name="title">
-  <rectangle color="#2f2f2f" x="0" y="0" width="width" 
+  <rectangle color="#1a1a1a" x="0" y="0" width="width" 
     height="height" filled="true"/>
-  <line color="#2f2f2f" x1="0" y1="0" x2="0" y2="height" 
+  <line color="#1a1a1a" x1="0" y1="0" x2="0" y2="height" 
     width="1"/>
-  <line color="#2f2f2f" x1="0" y1="0" x2="width" y2="0" 
+  <line color="#1a1a1a" x1="0" y1="0" x2="width" y2="0" 
     width="1"/>
-  <line color="#2f2f2f" x1="width - 1" y1="0" x2="width - 1" y2="height" 
+  <line color="#1a1a1a" x1="width - 1" y1="0" x2="width - 1" y2="height" 
     width="1"/>
 </draw_ops>
 
 <draw_ops name="title-shaded">
-  <rectangle color="#2f2f2f" x="0" y="0" width="width" 
+  <rectangle color="#1a1a1a" x="0" y="0" width="width" 
     height="height" filled="true"/>
-  <line color="#2f2f2f" x1="0" y1="0" x2="0" y2="height" 
+  <line color="#1a1a1a" x1="0" y1="0" x2="0" y2="height" 
     width="1"/>
-  <line color="#2f2f2f" x1="0" y1="0" x2="width" y2="0" 
+  <line color="#1a1a1a" x1="0" y1="0" x2="width" y2="0" 
     width="1"/>
-  <line color="#2f2f2f" x1="width - 1" y1="0" x2="width - 1" y2="height" 
+  <line color="#1a1a1a" x1="width - 1" y1="0" x2="width - 1" y2="height" 
     width="1"/>
 </draw_ops>
 
 <draw_ops name="title-unfocused">
-  <rectangle color="#2f2f2f" x="0" y="0" width="width" 
+  <rectangle color="#1a1a1a" x="0" y="0" width="width" 
     height="height" filled="true"/>
-  <line color="#2f2f2f" x1="0" y1="0" x2="0" y2="height" 
+  <line color="#1a1a1a" x1="0" y1="0" x2="0" y2="height" 
     width="1"/>
-  <line color="#2f2f2f" x1="0" y1="0" x2="width" y2="0" 
+  <line color="#1a1a1a" x1="0" y1="0" x2="width" y2="0" 
     width="1"/>
-  <line color="#2f2f2f" x1="width - 1" y1="0" x2="width - 1" y2="height" 
+  <line color="#1a1a1a" x1="width - 1" y1="0" x2="width - 1" y2="height" 
     width="1"/>
 </draw_ops>
 
 <draw_ops name="title-max">
-  <rectangle color="#2f2f2f" x="0" y="0" width="width" 
+  <rectangle color="#1a1a1a" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="title-max-unfocused">
-  <rectangle color="#2f2f2f" x="0" y="0" width="width" 
+  <rectangle color="#1a1a1a" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="frame-left-focused">
-  <rectangle color="#2f2f2f" x="0" y="0" width="width" 
+  <rectangle color="#1a1a1a" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="frame-left-unfocused">
-  <rectangle color="#2f2f2f" x="0" y="0" width="width" 
+  <rectangle color="#1a1a1a" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="frame-right-focused">
-  <rectangle color="#2f2f2f" x="0" y="0" width="width" 
+  <rectangle color="#1a1a1a" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="frame-right-unfocused">
-  <rectangle color="#2f2f2f" x="0" y="0" width="width" 
+  <rectangle color="#1a1a1a" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="frame-bottom-focused">
-  <rectangle color="#2f2f2f" x="0" y="0" width="width" 
+  <rectangle color="#1a1a1a" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="frame-bottom-unfocused">
-  <rectangle color="#2f2f2f" x="0" y="0" width="width" 
+  <rectangle color="#1a1a1a" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
