@@ -1,3 +1,10 @@
+xenta-x-theme (1.3.6) batik; urgency=medium
+
+  * Pebaikan Berkas debian
+  * Perbaikan thumbnail
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Mon, 11 Feb 2019 10:15:52 +0700
+
 xenta-x-theme (1.3.5) batik; urgency=medium
 
   * Pebaikan Berkas

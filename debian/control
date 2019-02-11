@@ -1,11 +1,11 @@
 Source: xenta-x-theme
 Section: gnome
 Priority: optional
-Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.7
-Homepage: https://github.com/xentaos/xenta-x-theme
-Vcs-Browser: https://github.com/xentaos/xenta-x-theme.git
+Homepage: https://github.com/xentaoslinux/xenta-x-theme
+Vcs-Browser: https://github.com/xentaoslinux/xenta-x-theme.git
 
 Package: xenta-x-theme
 Architecture: all
